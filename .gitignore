@@ -1,0 +1,6 @@
+*.suo
+*.exe
+*.pdb
+*.cache
+**/bin/Debug
+**/obj/Debug
